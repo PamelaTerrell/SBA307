@@ -1,3 +1,85 @@
 html{
-    background-color: bisque;
+    background-color: antiquewhite;
 }
+
+li :hover{
+    background-color: aquamarine;
+}
+
+nav{
+
+    
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    
+}
+
+ul{
+    
+    
+}
+
+li{
+    display: inline;
+    padding: 30px;
+
+    
+}
+
+.blink_me {
+    animation: blinker 1s linear infinite;
+  }
+  
+  @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    border: 2px solid black;
+    padding: 10px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 5px 8px 5px #888888;
+}
+
+body{
+    text-align: center;
+    
+}
+
+iframe{
+
+}
+
+form{
+    font-size: 26px;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+}
+
+p{
+    padding: 15px;
+}
+
+table, th, td {
+    border:1px solid black;
+    background-color: aliceblue;
+  }
+
+input{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    
+}
+

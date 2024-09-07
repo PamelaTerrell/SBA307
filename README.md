@@ -6,7 +6,7 @@
 
 # How to get started - select a checkbox on the landing page
 
-# Acknowledgements - gif provided by giphy, W3schools.com for table and form checkbox references, unsplash.com for perfume img(s)
+# Acknowledgements - gif provided by giphy, W3schools.com for table and form checkbox references, unsplash.com for perfume img(s), and stackoverflow.com for css animation blink_me
 
 
 
